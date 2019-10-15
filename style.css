@@ -3,3 +3,13 @@ footer {
   color: rgb(0, 0, 0);
   font-family: 'Varela Round', sans-serif;
 }
+
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url("https://www.pepperconstruction.com/sites/default/files/images/lasalle_peru_banner_0.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+}
