@@ -12,4 +12,13 @@ footer {
   background-position: center;
   background-repeat: no-repeat;
   color: white;
+  font-family: 'Varela Round', sans-serif;
+}
+
+.masthead p {
+  font-size: 20px;
+}
+
+.masthead h1 {
+  font-size: 35px;
 }
