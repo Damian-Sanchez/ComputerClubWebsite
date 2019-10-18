@@ -14,14 +14,15 @@ footer {
   color: white;
 }
   
- .masthead-p {
-  font-size: 20px;
+.masthead-h1 {
+  font-size: 55px;
   color: white;
   font-family: 'Varela Round', sans-serif;
 }
 
-.masthead-h1 {
+.masthead-p {
   font-size: 35px;
   color: white;
   font-family: 'Varela Round', sans-serif;
 }
+
