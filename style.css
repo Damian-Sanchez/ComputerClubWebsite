@@ -13,6 +13,16 @@ footer {
   background-repeat: no-repeat;
   color: white;
 }
+
+.masthead-1 {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url("https://www.ccgvaz.org/images/banner.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+}
   
 .masthead-h1 {
   font-size: 55px;
